@@ -4,8 +4,6 @@ This project is to build a basic website for a small business. It is to explain 
 
 For the purposes of this exercise I will build a website for a hairdressers.
 
-
-
 ## Gitpod Reminders
 
 To run a frontend (HTML, CSS, Javascript only) application in Gitpod, in the terminal, type:
