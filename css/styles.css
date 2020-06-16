@@ -4594,7 +4594,7 @@ input[type=button].btn-block {
 }
 .page-link:hover {
   z-index: 2;
-  color: #e6b301;
+  color: #6c757d;
   text-decoration: none;
   background-color: #e9ecef;
   border-color: #dee2e6;
@@ -10493,4 +10493,15 @@ section#contact form#contactForm :-ms-input-placeholder {
   text-align: center;
   font-size: 0.9rem;
   font-family: "Montserrat", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+}
+
+.about-link {
+    color: white;
+    text-shadow: 2px 2px 4px #000000;
+
+}
+
+.about-link:hover {
+    color: #6c757d;
+    text-decoration: none;
 }
